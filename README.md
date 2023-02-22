@@ -1,4 +1,4 @@
-# Baybayin model for 16px
+# baybayin model for 16px
  Machine Learning Model for Identifying Traditional Tagalog Baybayin Characters
 
 This model is a small personal project to designed to bring attention to precolonial
