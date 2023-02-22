@@ -1,4 +1,4 @@
-# baybayin classifier model for 16px
+# baybayin classifier model for 16px 🇵🇭
 Convolutional Neural Net for Identifying Traditional Tagalog Baybayin Characters
 
 This model is a small personal project designed to bring attention to pre-colonial
