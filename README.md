@@ -8,7 +8,7 @@ the erasure of filipino and Southeast Asian culture.
 
 
 
-![](https://github.com/HarvielArcilla/baybayin-classifier-model-for-16px/blob/2ae14137360f9ccca1f961974ee8359474f08050/Sample_Image/ka-1.png?raw=true =250x250)
+![](https://github.com/HarvielArcilla/baybayin-classifier-model-for-16px/blob/2ae14137360f9ccca1f961974ee8359474f08050/Sample_Image/ka-1.png?raw=250x250)
 
 
 The model was trained on 400+ b/w 16x16 images of various baybayin characters. All
