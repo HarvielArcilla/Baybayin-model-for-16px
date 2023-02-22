@@ -1,0 +1,17 @@
+0 ka
+1 ga
+2 nga
+3 ta
+4 da/ra
+5 na
+6 pa
+7 ba
+8 ma
+9 ya
+10 la
+11 wa
+12 sa
+13 ha
+14 a
+15 i/e
+16 u/o
