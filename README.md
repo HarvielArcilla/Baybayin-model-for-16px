@@ -7,9 +7,9 @@ in a largely unsued/dead script, but hopefully a project like this can shed ligh
 the erasure of filipino and Southeast Asian culture.
 
 
-
-![](https://github.com/HarvielArcilla/baybayin-classifier-model-for-16px/blob/2ae14137360f9ccca1f961974ee8359474f08050/Sample_Image/ka-1.png?raw=true)
 <img src="https://github.com/HarvielArcilla/baybayin-classifier-model-for-16px/blob/2ae14137360f9ccca1f961974ee8359474f08050/Sample_Image/ka-1.png" align="left" height="48" width="48">
+
+
 
 
 The model was trained on 400+ b/w 16x16 images of various baybayin characters. All
