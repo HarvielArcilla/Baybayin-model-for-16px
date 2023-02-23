@@ -19,6 +19,8 @@ more model for various underepresented languages around the world, provided I fi
 qualified to replicate them. I also plan a higher resolution version, once I can compile
 enough images to make it feasible. 
 
+This model achieves ~90% success on 100 16x16 baybayin test images.
+
 Models such as this are extremely time intensive. They require lots of data collection
 and are difficult to do on a large scale. If you would like to contribute to a project
 like this or feel have ideas for futures projects please reach out.
